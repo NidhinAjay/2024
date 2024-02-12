@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "525003342665",
+    "project_id": "spotify-registration",
+    "storage_bucket": "spotify-registration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525003342665:android:631ca4f62951b7c67c1098",
+        "android_client_info": {
+          "package_name": "com.example.spotify_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525003342665-49alsi9410uq57343p1j8v1bttnkbk7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spotify_clone",
+            "certificate_hash": "c9a7428f5083a1aca09d2081790c3da20a9020c1"
+          }
+        },
+        {
+          "client_id": "525003342665-36gkmqgr1ugnmlsf9qikfdao0u4jpluc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx1Tb4oJ4HIbyNAEX5Y1K2ss-W3GNkwe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525003342665-36gkmqgr1ugnmlsf9qikfdao0u4jpluc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
